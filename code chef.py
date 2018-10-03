@@ -34,3 +34,6 @@ for i in range(l):
                 req.append("*")        
     print("".join(req))            
         
+tkjfddjfias;jlfk
+dsl;fjads;lkjfh;oasijfs
+sdfljea;fh;asf
